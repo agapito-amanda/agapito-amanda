@@ -1,7 +1,6 @@
 ## Olá, eu sou Amanda Agapito (agapito-amanda) 👋
 
-
-Estudante de Análise e Desenvolvimento de Sistemas na Estácio.
+Graduanda de Análise e Desenvolvimento de Sistemas, com foco em me especializar na linguagem Python.
 
 ## Estudando
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
