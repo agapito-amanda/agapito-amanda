@@ -1,6 +1,6 @@
 ## Olá, eu sou Amanda Agapito (agapito-amanda) 👋
 
-Graduanda de Análise e Desenvolvimento de Sistemas, com foco em me especializar na linguagem Python.
+Graduanda de Análise e Desenvolvimento de Sistemas, com foco em me especializar na linguagem Python para análise de dados.
 
 ## Estudando
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
