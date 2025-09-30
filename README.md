@@ -1,6 +1,6 @@
 ## Olá, eu sou Amanda Agapito (agapito-amanda) 👋
 
-Graduanda de Análise e Desenvolvimento de Sistemas, com foco em me especializar na linguagem Python para análise de dados.
+Graduanda em Análise e desenvolvimento de Sistemas e profissional iniciante em segurança cibernética.
 
 ## Estudando
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -12,5 +12,5 @@ Graduanda de Análise e Desenvolvimento de Sistemas, com foco em me especializar
 
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-agapito-90810a272/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agapitoamanda/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@hpto.exe/)
